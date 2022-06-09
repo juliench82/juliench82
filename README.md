@@ -7,11 +7,13 @@
                 <img src="https://i.postimg.cc/h47hr6ps/LOGO.png" alt="logo" style="width: 30%;">
             </a>
         </dt>
+                <br>
         <dt>
         <a href="https://www.linkedin.com/in/julienc82/">
             <img src="https://i.postimg.cc/J0dqMgHP/Pik-Png-com-linkedin-png-533498.png" alt="LinkedIn" style="width: 20%;">
         </a>
         </dt>
+                <br>
         <dt>
                 <a hreft="https://twitter.com/cryptoposito">
                         <img src="https://i.postimg.cc/J4kJstf1/Pik-Png-com-twitter-bird-png-1809210.png" alt="twitter" style="width: 20%"
