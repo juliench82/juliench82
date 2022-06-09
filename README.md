@@ -3,14 +3,18 @@
         <br>
         <dl>
         <dt>
-            <a href="https://twitter.com/cryptoposito" rel="nofollow">
+            <a href="http://cryptoposito.com">
                 <img src="https://i.postimg.cc/h47hr6ps/LOGO.png" alt="logo" style="width: 30%;">
             </a>
         </dt>
         <dt>
-        <a href="https://www.linkedin.com/in/julienc82/" rel="nofollow">
+        <a href="https://www.linkedin.com/in/julienc82/">
             <img src="https://i.postimg.cc/J0dqMgHP/Pik-Png-com-linkedin-png-533498.png" alt="LinkedIn" style="width: 20%;">
         </a>
         </dt>
+        <dt>
+                <a hreft="https://twitter.com/cryptoposito">
+                        <img src="https://i.postimg.cc/J4kJstf1/Pik-Png-com-twitter-bird-png-1809210.png" alt="twitter" style="width: 20%"
+                </dt>
         </dl>
     </div>
