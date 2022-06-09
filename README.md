@@ -16,7 +16,7 @@
                 <br>
         <dt>
                 <a hreft="https://twitter.com/cryptoposito">
-                        <img src="https://i.postimg.cc/J4kJstf1/Pik-Png-com-twitter-bird-png-1809210.png" alt="twitter" style="width: 20%"
+                        <img src="https://i.postimg.cc/J4kJstf1/Pik-Png-com-twitter-bird-png-1809210.png" alt="twitter" style="width: 10%"
                 </dt>
         </dl>
     </div>
