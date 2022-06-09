@@ -4,12 +4,12 @@
         <dl>
         <dt>
             <a href="https://twitter.com/cryptoposito" rel="nofollow">
-                <img src="https://image.similarpng.com/very-thumbnail/2020/06/Premium-logo-Twitter-transparent-PNG.png" alt="Twitter" data-canonical-src="https://img.shields.io/twitter/follow/_onlyphantom?style=social" style="max-width: 20%;">
+                <img src="https://i.postimg.cc/h47hr6ps/LOGO.png" alt="logo" style="width: 20%;">
             </a>
         </dt>
         <dt>
         <a href="https://www.linkedin.com/in/julienc82/" rel="nofollow">
-            <img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="LinkedIn" style="max-width: 20%;">
+            <img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="LinkedIn" style="width: 20%;">
         </a>
         </dt>
         </dl>
