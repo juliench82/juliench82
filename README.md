@@ -3,7 +3,7 @@
         <br>
         <dl>
         <dt>
-            <a href="http://cryptoposito.com" target="_blank">
+            <a href="https://cryptoposito.com" target="_blank">
                 <img src="https://i.postimg.cc/h47hr6ps/LOGO.png" alt="logo" style="width: 30%;">
             </a>
         </dt>
