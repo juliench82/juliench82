@@ -3,20 +3,22 @@
         <br>
         <dl>
         <dt>
-            <a href="https://cryptoposito.com" target="_blank">
-                <img src="https://i.postimg.cc/h47hr6ps/LOGO.png" alt="logo" style="width: 30%;">
-            </a>
+        <div>Solidity, ReactJS, NextJS, Typescript/Javascript, HardHat/Truffle</div>
+        <br>
+        <div>. DB: MongoDB, MySQL</div>
+        <br>
+        <div>. Cloud: AWS</div>
         </dt>
-                <br>
+        <br>
         <dt>
         <a href="https://www.linkedin.com/in/julienc82/" target="_blank">
             <img src="https://i.postimg.cc/J0dqMgHP/Pik-Png-com-linkedin-png-533498.png" alt="LinkedIn" style="width: 20%;">
         </a>
         </dt>
-                <br>
+        <br>
         <dt>
-                <a hreft="https://twitter.com/cryptoposito" target="_blank">
-                        <img src="https://i.postimg.cc/J4kJstf1/Pik-Png-com-twitter-bird-png-1809210.png" alt="twitter" style="width: 10%"
-                </dt>
+        <a hreft="https://twitter.com/cryptoposito" target="_blank">
+        <img src="https://i.postimg.cc/J4kJstf1/Pik-Png-com-twitter-bird-png-1809210.png" alt="twitter" style="width: 10%"
+        </dt>
         </dl>
     </div>
