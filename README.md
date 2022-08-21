@@ -1,6 +1,5 @@
 <div dir="auto" align="center">
         <h2>Blockchain Developer</h2>
-        <hr></hr>
         <br>
         <div>. Skills: Solidity, ReactJS, NextJS, Typescript/Javascript, HardHat/Truffle</div>
         <br>
