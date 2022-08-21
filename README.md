@@ -8,12 +8,12 @@
 <div dir="auto" align="center">
         <br>
         <i>Connect with me</i>
-        <br><br><br>
+        <br><br>
 </div>
 
 <div dir="auto" align="center">
         <a href="https://www.linkedin.com/in/julienc82/" target="_blank"><img src="https://i.postimg.cc/J0dqMgHP/Pik-Png-com-linkedin-png-533498.png" alt="LinkedIn" style="width: 20%;">
-        </a><br>
+        </a><br><br>
         <a hreft="https://twitter.com/cryptoposito" target="_blank"><img src="https://i.postimg.cc/J4kJstf1/Pik-Png-com-twitter-bird-png-1809210.png" alt="twitter" style="width: 10%"
 
 </div>
