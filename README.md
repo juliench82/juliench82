@@ -2,14 +2,13 @@
         <dl>
         <dt>
         <h2>Blockchain Developer</h2>
-        
         <br>
         <div>. Skills: Solidity, ReactJS, NextJS, Typescript/Javascript, HardHat/Truffle</div>
         <br>
         </dt>
         <br>
         <h3>Connect with me</h3>
-        <hr>
+        <hr></hr>
         <br>
         <dt>
         <a href="https://www.linkedin.com/in/julienc82/" target="_blank"><img src="https://i.postimg.cc/J0dqMgHP/Pik-Png-com-linkedin-png-533498.png" alt="LinkedIn" style="width: 20%;">
