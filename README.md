@@ -1,5 +1,4 @@
 <div dir="auto" align="center">
-
         <h2>Blockchain Developer</h2>
         <hr></hr>
         <br>
