@@ -8,7 +8,7 @@
 <div dir="auto" align="center">
         <br>
         <i>Connect with me</i>
-        <br>
+        <br><br>
 </div>
 
 <div dir="auto" align="center">
