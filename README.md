@@ -7,7 +7,7 @@
 
 <div dir="auto" align="center">
         <br>
-        <i>Connect with me</i>
+        <i>. Connect with me</i>
         <br><br>
 </div>
 
