@@ -15,6 +15,6 @@
 <div dir="auto" align="center">
         <a href="https://www.linkedin.com/in/julienc82/" target="_blank"><img src="https://i.postimg.cc/J0dqMgHP/Pik-Png-com-linkedin-png-533498.png" alt="LinkedIn" style="width: 20%;">
         </a><br><br>
-        <a hreft="https://x.com/cryptoposito" target="_blank"><img src="[https://i.postimg.cc/J4kJstf1/Pik-Png-com-twitter-bird-png-1809210.png](https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png)" alt="x" style="width: 10%"
+        <a href="https://x.com/cryptoposito" target="_blank"><img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="x" style="width: 10%"
 
 </div>
