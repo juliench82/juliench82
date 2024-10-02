@@ -1,7 +1,10 @@
 <div dir="auto" align="center">
         <h2>Blockchain Developer</h2>
         <br>
-        <div>. Skills: Solidity, ReactJS, NextJS, Typescript/Javascript, HardHat/Truffle</div>
+        <div>. Skills: Solana, Rust, Anchor, Solidity, Node.js, Typescript, Javascript, HardHat/Truffle</div>
+        <div>. <p>Certifications <a href="https://www.linkedin.com/in/julienc82/recent-activity/documents/" target="_blank" rel="noopener noreferrer"></a>.</p></div>
+                
+
         <br>
 </div>
 
