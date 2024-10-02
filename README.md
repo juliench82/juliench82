@@ -2,7 +2,7 @@
         <h2>Blockchain Developer</h2>
         <br>
         <div>. Skills: Solana, Rust, Anchor, Solidity, Node.js, Typescript, Javascript, HardHat/Truffle</div>
-        <div>. <a href="https://www.linkedin.com/in/julienc82/recent-activity/documents/" target="_blank">Certifications</a></div>
+        <div>. <a href="https://www.bcdiploma.com/issuersList?issuerId=27" target="_blank">Certification: 0xc13667D4e5e91e84a5205DAF61e251F4C87559aa (ETH)</a></div>
         <br>
 </div>
 
