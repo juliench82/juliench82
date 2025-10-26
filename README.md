@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julien 👋</h1>
 
 <p align="center">
-  <strong>Senior IT Manager | Cloud Operations Lead | System Administrator | Blockchain Developer</strong>
+  <strong>Senior IT Manager | System Administrator | Blockchain Developer</strong>
 </p>
 
 <p align="center">
