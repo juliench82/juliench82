@@ -14,8 +14,34 @@
 
 ### 🛠️ Skills
 
+#### 🔗 Blockchain Development
 ```
-Solana • Rust • Anchor • Solidity • Node.js • TypeScript • JavaScript • HardHat • Truffle • Automation: Powershell, Python scripting | Endpoint Management: Intune, SCCM, JAMF | Cloud Platforms: AWS, Azure, Google Suite | Enterprise Applications: Office 365 (Microsoft 365) | Ticketing Systems & Monitoring (JIRA, Zendesk, Service Now, SCOM, Nagios...)
+Solana • Rust • Anchor • Solidity • HardHat • Truffle
+```
+
+#### 💻 Programming & Development
+```
+Node.js • TypeScript • JavaScript • Python • PowerShell
+```
+
+#### ☁️ Cloud Platforms
+```
+AWS • Azure • Google Suite
+```
+
+#### 🖥️ Endpoint Management
+```
+Intune • SCCM • JAMF
+```
+
+#### 🏢 Enterprise Applications
+```
+Office 365 (Microsoft 365)
+```
+
+#### 🎫 Ticketing & Monitoring Systems
+```
+JIRA • Zendesk • Service Now • SCOM • Nagios
 ```
 
 ---
