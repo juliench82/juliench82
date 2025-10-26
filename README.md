@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julien 👋</h1>
 
 <p align="center">
-  <strong>Senior IT Support Engineer | Workplace Automation | Blockchain Developer (Solana / EVM)</strong>
+  <strong>Senior IT Manager | Cloud Operations Lead | System Administrator | Blockchain Developer</strong>
 </p>
 
 <p align="center">
@@ -12,7 +12,41 @@
 
 ---
 
-### 🛠️ Skills
+### 💼 About Me
+
+Results-driven **Senior IT Manager** with **12+ years** of proven expertise in **enterprise IT infrastructure**, **cloud operations**, and **team leadership**. Currently managing multi-site environments at Trainline, leading cross-functional teams, and delivering scalable automation solutions. Strong background in Azure/AWS cloud platforms, endpoint management, and security compliance (GDPR, ISO27001).
+
+**🌍 Currently:** Relocating to Poland | **🎯 Open to:** IT Management, Cloud Operations, System Administration roles
+
+---
+
+### 🛠️ Technical Expertise
+
+#### ☁️ Cloud Platforms & Infrastructure
+```
+Microsoft Azure (Expert) • AWS (Advanced) • Google Workspace Administration
+```
+
+#### 🔧 System Administration & Automation
+```
+Windows Server • Linux (Debian/Ubuntu) • macOS • PowerShell • Python Scripting
+Virtualization: Proxmox, Docker • CI/CD: GitLab, GitHub, Harbor
+```
+
+#### 📱 Endpoint & Identity Management
+```
+Microsoft Intune (Expert) • JAMF DEP • SCCM • Active Directory • Azure AD/Entra ID
+```
+
+#### 🛡️ Security & Compliance
+```
+GDPR & ISO27001 External Audit Leadership • Network Security • Vulnerability Management
+```
+
+#### 🎫 Service Management & Monitoring
+```
+ITIL Framework • ServiceNow • JIRA Service Management • SCOM • Nagios • SLA/KPI Management
+```
 
 #### 🔗 Blockchain Development
 ```
@@ -24,25 +58,20 @@ Solana • Rust • Anchor • Solidity • HardHat • Truffle
 Node.js • TypeScript • JavaScript • Python • PowerShell
 ```
 
-#### ☁️ Cloud Platforms
-```
-AWS • Azure • Google Suite
-```
+---
 
-#### 🖥️ Endpoint Management
-```
-Intune • SCCM • JAMF
-```
+### 🏢 Professional Highlights
 
-#### 🏢 Enterprise Applications
-```
-Office 365 (Microsoft 365)
-```
+**Current Role:** Senior Workplace Engineer at **Trainline** (2022-Present)
+- Managing IT infrastructure for **1000+ users** across 3 international offices
+- Leading **PowerShell & Python** automation initiatives
+- Coordinating support teams across London, Paris, and Edinburgh
 
-#### 🎫 Ticketing & Monitoring Systems
-```
-JIRA • Zendesk • Service Now • SCOM • Nagios
-```
+**Key Achievements:**
+- ✅ Successfully managed IT infrastructure for **1500+ users** across multiple locations
+- ✅ Led external security audits (**GDPR**, **ISO27001**) with **100% compliance**
+- ✅ Implemented automation solutions reducing manual operations by **40%**
+- ✅ Achieved **99.5% uptime** for critical business systems
 
 ---
 
@@ -62,10 +91,24 @@ JIRA • Zendesk • Service Now • SCOM • Nagios
 
 ---
 
-### 🌐 Connect with me
+### 💡 Core Competencies
 
-- [LinkedIn](https://www.linkedin.com/in/julienc82/)
+**Leadership & Management:**
+- Cross-functional Team Leadership
+- Stakeholder Management & Vendor Relations
+- Agile Methodologies (Scrum, DevOps, Kanban)
+- Change Management & Process Improvement
+
+**Languages:** 
+🇫🇷 French (Native) | 🇬🇧 English (Fluent) | 🇪🇸 Spanish (Conversational)
 
 ---
 
-> _12+ years of IT experience with a strong focus on proactive problem-solving, communication, and resourcefulness_
+### 🌐 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/julienc82/)
+- 📧 jchevallier82@gmail.com
+
+---
+
+> _Bridging traditional IT excellence with cutting-edge blockchain innovation • 12+ years of enterprise experience • Proven track record in cloud operations and team leadership_
