@@ -15,7 +15,7 @@
 ### 🛠️ Skills
 
 ```
-Solana • Rust • Anchor • Solidity • Node.js • TypeScript • JavaScript • HardHat • Truffle
+Solana • Rust • Anchor • Solidity • Node.js • TypeScript • JavaScript • HardHat • Truffle • Automation: Powershell, Python scripting | Endpoint Management: Intune, SCCM, JAMF | Cloud Platforms: AWS, Azure, Google Suite | Enterprise Applications: Office 365 (Microsoft 365) | Ticketing Systems & Monitoring (JIRA, Zendesk, Service Now, SCOM, Nagios...)
 ```
 
 ---
