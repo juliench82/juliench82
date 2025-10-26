@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/julienc82/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://x.com/juliench82" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter/X-Follow-gray?logo=x" alt="X">
-  </a>
 </p>
 
 ---
@@ -42,8 +39,7 @@ Solana • Rust • Anchor • Solidity • Node.js • TypeScript • JavaScrip
 ### 🌐 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/julienc82/)
-- [X / Twitter](https://x.com/juliench82)
 
 ---
 
-> _Always learning, building, and sharing blockchain & IT automation expertise!_
+> _12+ years of IT experience with a strong focus on proactive problem-solving, communication, and resourcefulness_
