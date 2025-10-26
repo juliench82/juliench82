@@ -14,7 +14,7 @@
 
 ### 💼 About Me
 
-Results-driven **Senior IT Manager** with **12+ years** of proven expertise in **enterprise IT infrastructure**, **cloud operations**, and **team leadership**. Currently managing multi-site environments at Trainline, leading cross-functional teams, and delivering scalable automation solutions. Strong background in Azure/AWS cloud platforms, endpoint management, and security compliance (GDPR, ISO27001).
+Results-driven **Senior IT Manager** with **12+ years** of proven expertise in **enterprise IT infrastructure**, **cloud operations**, and **team leadership**. Currently managing multi-site environments at Trainline, leading cross-functional teams, and delivering scalable automation solutions. Strong background in Azure/AWS cloud platforms, endpoint management.
 
 **🌍 Currently:** Based in France, willing to relocate | **🎯 Open to:** IT Management, Cloud Operations, System Administration roles
 
@@ -30,7 +30,7 @@ Microsoft Azure (Expert) • AWS (Advanced) • Google Workspace Administration
 #### 🔧 System Administration & Automation
 ```
 Windows Server • Linux (Debian/Ubuntu) • macOS • PowerShell • Python Scripting
-Virtualization: Proxmox, Docker • CI/CD: GitLab, GitHub, Harbor
+Virtualization: Docker • CI/CD: GitLab, GitHub
 ```
 
 #### 📱 Endpoint & Identity Management
@@ -40,7 +40,7 @@ Microsoft Intune (Expert) • JAMF DEP • SCCM • Active Directory • Azure A
 
 #### 🛡️ Security & Compliance
 ```
-GDPR & ISO27001 External Audit Leadership • Network Security • Vulnerability Management
+Vulnerability Management
 ```
 
 #### 🎫 Service Management & Monitoring
@@ -66,12 +66,6 @@ Node.js • TypeScript • JavaScript • Python • PowerShell
 - Managing IT infrastructure for **1000+ users** across 3 international offices
 - Leading **PowerShell & Python** automation initiatives
 - Coordinating support teams across London, Paris, and Edinburgh
-
-**Key Achievements:**
-- ✅ Successfully managed IT infrastructure for **1500+ users** across multiple locations
-- ✅ Led external security audits (**GDPR**, **ISO27001**) with **100% compliance**
-- ✅ Implemented automation solutions reducing manual operations by **40%**
-- ✅ Achieved **99.5% uptime** for critical business systems
 
 ---
 
