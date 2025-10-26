@@ -16,7 +16,7 @@
 
 Results-driven **Senior IT Manager** with **12+ years** of proven expertise in **enterprise IT infrastructure**, **cloud operations**, and **team leadership**. Currently managing multi-site environments at Trainline, leading cross-functional teams, and delivering scalable automation solutions. Strong background in Azure/AWS cloud platforms, endpoint management, and security compliance (GDPR, ISO27001).
 
-**🌍 Currently:** Relocating to Poland | **🎯 Open to:** IT Management, Cloud Operations, System Administration roles
+**🌍 Currently:** Based in France, willing to relocate | **🎯 Open to:** IT Management, Cloud Operations, System Administration roles
 
 ---
 
