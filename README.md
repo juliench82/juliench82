@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julien 👋</h1>
 
 <p align="center">
-  <strong>Senior IT Support Engineer | System Administrator</strong>
+  <strong>Senior IT Support Engineer | System Administrator | Blockchain Developer</strong>
 </p>
 
 <p align="center">
