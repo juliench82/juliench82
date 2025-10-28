@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julien 👋</h1>
 
 <p align="center">
-  <strong>Senior IT Manager | System Administrator | Blockchain Developer</strong>
+  <strong>Senior IT Support Engineer | System Administrator | Blockchain Developer</strong>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### 💼 About Me
 
-Results-driven **Senior IT Manager** with **12+ years** of proven expertise in **enterprise IT infrastructure**, **cloud operations**, and **team leadership**. Currently managing multi-site environments at Trainline, leading cross-functional teams, and delivering scalable automation solutions. Strong background in Azure/AWS cloud platforms, endpoint management.
+Results-driven **Senior IT Support Engineer** with **12+ years** of proven expertise in **enterprise IT infrastructure**, **cloud operations**, and **team leadership**. Currently managing multi-site environments at Trainline, leading cross-functional teams, and delivering scalable automation solutions. Background in SCCM/Azure/AWS cloud platforms, endpoint management.
 
-**🌍 Currently:** Based in France, willing to relocate | **🎯 Open to:** IT Management, Cloud Operations, System Administration roles
+**🌍 Currently:** Based in France, willing to relocate | **🎯 Open to:** IT Specialist, Management, Cloud Operations, System Administration roles
 
 ---
 
@@ -62,7 +62,7 @@ Node.js • TypeScript • JavaScript • Python • PowerShell
 
 ### 🏢 Professional Highlights
 
-**Current Role:** Senior Workplace Engineer at **Trainline** (2022-Present)
+**Current Role:** Senior IT Support Engineer at **Trainline** (2022-Present)
 - Managing IT infrastructure for **1000+ users** across 3 international offices
 - Leading **PowerShell & Python** automation initiatives
 - Coordinating support teams across London, Paris, and Edinburgh
@@ -87,11 +87,13 @@ Node.js • TypeScript • JavaScript • Python • PowerShell
 
 ### 💡 Core Competencies
 
-**Leadership & Management:**
-- Cross-functional Team Leadership
-- Stakeholder Management & Vendor Relations
-- Agile Methodologies (Scrum, DevOps, Kanban)
-- Change Management & Process Improvement
+**Technical & Management:**
+• Stakeholder Management & Cross-functional Collaboration
+• Vendor Management & Contract Governance
+• Agile Methodologies (Scrum, DevOps, Kanban)
+• Problem-Solving & Critical Thinking
+• Documentation & Knowledge Management
+• Change Management & Process Improvement
 
 **Languages:** 
 🇫🇷 French (Native) | 🇬🇧 English (Fluent) | 🇪🇸 Spanish (Conversational)
@@ -105,4 +107,4 @@ Node.js • TypeScript • JavaScript • Python • PowerShell
 
 ---
 
-> _Bridging traditional IT excellence with cutting-edge blockchain innovation • 12+ years of enterprise experience • Proven track record in cloud operations and team leadership_
+> _Bridging traditional IT excellence with cutting-edge blockchain innovation • 12+ years of enterprise experience • Proven track record of reducing operational costs, improving SLA performance, and implementing ITIL best practices in fast-paced, global organizations_
