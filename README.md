@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/julienc82/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/juliench82/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
 </p>
@@ -14,9 +14,9 @@
 
 ### 💼 Professional Summary
 
-IT Systems Engineer with **12+ years** in enterprise environments, focused on identity lifecycle automation, endpoint management, and security tooling. Hands-on experience with Okta administration (SSO, SCIM, lifecycle policies, app provisioning), HiBob-driven onboarding/offboarding, Jamf Pro, Microsoft Intune, CrowdStrike, and GitHub Actions-based automation. Strong scripting background in Python, PowerShell, and Bash, with experience building self-service IT workflows, managing certificate renewal/rotation, and contributing to ISO 27001 audit readiness.
+IT Systems Engineer with **13+ years** in enterprise environments, focused on identity lifecycle automation, endpoint management, and security tooling. Hands-on experience with Okta administration (SSO, SCIM, lifecycle policies, app provisioning), HiBob-driven onboarding/offboarding, Jamf Pro, Microsoft Intune, CrowdStrike, and GitHub Actions-based automation. Strong scripting background in Python, PowerShell, and Bash, with experience building self-service IT workflows, managing certificate renewal/rotation, and contributing to ISO 27001 audit readiness.
 
-**🌍 Currently:** Based in France, willing to relocate | **🎯 Open to:** IT Systems Engineer, Identity & Access Management, Cloud Operations, Automation roles
+**🌍 Currently:** Based in EU | **🎯 Open to:** IT Systems Engineer, Identity & Access Management, Cloud Operations, Automation roles
 
 ---
 
@@ -66,7 +66,7 @@ Incident Management • Change Management • Problem Resolution
 ### 🏢 Professional Experience
 
 **Senior IT Support Engineer | Trainline | Paris | Jul 2019 - Jul 2021 & Aug 2022 - Present**
-- Administer Okta for SSO, SCIM, lifecycle policies, and app provisioning across the SaaS stack; support HiBob-driven onboarding and offboarding workflows
+- Support HRIS-driven onboarding/oﬀboarding and Azure
 - Manage Azure AD/Entra ID, SSO, and MFA deployments for distributed enterprise users
 - Own Jamf Pro for macOS fleet management, including PreStage enrollment, configuration profiles, software updates, certificate distribution, compliance policies, and app packaging
 - Manage Microsoft Intune for Windows endpoints and support Linux environments
@@ -78,6 +78,7 @@ Incident Management • Change Management • Problem Resolution
 - Support **500+ users** across distributed offices and handle complex escalations beyond first-line support
 
 **IT System Administrator | OuiSNCF | Paris | Jul 2021 - Jul 2022**
+- Administer systems for SSO, SCIM, lifecycle policies, and app provisioning across the SaaS stack; support HRIS-driven onboarding and offboarding workflows
 - Configured and maintained SCOM and Nagios for infrastructure monitoring and alerting rule management
 - Managed SCCM deployments and updates for **1,500+ enterprise users**
 - Supported AWS EC2 migration projects with focus on uptime and data integrity
@@ -141,9 +142,9 @@ Incident Management • Change Management • Problem Resolution
 
 ### 🌐 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/julienc82/)
+- [LinkedIn](https://www.linkedin.com/in/juliench82/)
 - 📧 jchevallier82@gmail.com
 
 ---
 
-> _12+ years of enterprise IT experience • Specialized in identity lifecycle automation, endpoint management, and security tooling • Building self-service IT workflows and contributing to ISO 27001 audit readiness in fast-paced, global organizations_
+> _13+ years of enterprise IT experience • Specialized in identity lifecycle automation, endpoint management, and security tooling • Building self-service IT workflows and contributing to ISO 27001 audit readiness in fast-paced, global organizations_
